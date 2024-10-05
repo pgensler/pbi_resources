@@ -6,3 +6,6 @@ https://github.com/MarcusWegener/Power-BI-Automation/blob/master/PowerBI_XmlaRef
 
 
 https://powerbi-cli.github.io/
+
+Get dataset info
+https://community.fabric.microsoft.com/t5/Desktop/List-All-Data-Source-Database-Tables-Views-Used/td-p/3185437
